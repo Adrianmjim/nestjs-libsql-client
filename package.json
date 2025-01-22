@@ -1,6 +1,6 @@
 {
   "name": "nestjs-libsql-client",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "NestJS TURSO libsql integration",
   "keywords": [
     "nestjs",
